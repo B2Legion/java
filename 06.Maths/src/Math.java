@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Math {
 
 	public static void main(String[] args) {
 		
@@ -21,5 +21,10 @@ public class Main {
 		
 		scanner.close();
 				
+	}
+
+	private static double sqrt(double d) {
+		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException("Unimplemented method 'sqrt'");
 	}
 }
